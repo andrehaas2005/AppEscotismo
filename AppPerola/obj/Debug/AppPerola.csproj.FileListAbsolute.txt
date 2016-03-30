@@ -2,7 +2,14 @@ C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\AppPerola.dll.config
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\AppPerola.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\AppPerola.pdb
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\Antlr3.Runtime.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\EntityFramework.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\EntityFramework.SqlServer.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\Microsoft.Web.Infrastructure.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\MySql.Data.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\MySql.Data.Entity.EF5.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\mysql.data.entity.EF6.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\MySql.Fabric.Plugin.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\MySql.Web.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\Newtonsoft.Json.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.Helpers.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.Mvc.dll
@@ -12,6 +19,8 @@ C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.WebPages.Deploymen
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.WebPages.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.WebPages.Razor.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\WebGrease.dll
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\EntityFramework.xml
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\EntityFramework.SqlServer.xml
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.Helpers.xml
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.Mvc.xml
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Web.Optimization.xml
