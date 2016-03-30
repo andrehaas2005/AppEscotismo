@@ -33,3 +33,4 @@ C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\Newtonsoft.Json.xml
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\obj\Debug\AppPerola.csprojResolveAssemblyReference.cache
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\obj\Debug\AppPerola.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\obj\Debug\AppPerola.pdb
+C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Data.dll

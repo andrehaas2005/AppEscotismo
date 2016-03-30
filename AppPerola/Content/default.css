@@ -679,39 +679,3 @@ DD .nivel1 {
     border: 1px solid #E2E9E2;
 }
 
-
-div#geral {
-    width: 501px;
-    height: 400px;
-    border: 1px solid #f00;
-    margin: 0 auto;
-}
-
-div#topo {
-    width: 501px;
-    height: 79px;
-    background-color: #ffc; /* Amarelo */
-    border-bottom: 1px solid #f00;
-}
-
-div#coluna_esquerda {
-    float: left;
-    width: 250px;
-    border-right: 1px solid #f00;
-    height: 270px;
-    background-color: #ccc; /* Cinza */
-}
-
-div#coluna_direita {
-    float: right;
-    width: 250px;
-    height: 270px;
-    background-color: #09f; /* Azul */
-}
-
-div#rodape {
-    width: 501px;
-    height: 49px;
-    background-color: #090; /* Verde */
-    border-top: 1px solid #f00;
-}
