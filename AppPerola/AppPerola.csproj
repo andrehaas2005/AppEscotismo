@@ -1352,6 +1352,7 @@
     <Content Include="richtexteditor\config\guest.config" />
     <Content Include="richtexteditor\config\default.config" />
     <Content Include="richtexteditor\config\admin.config" />
+    <None Include="Properties\PublishProfiles\AppPerolaLocal.pubxml" />
     <None Include="richtexteditor\core\jsml.xsd">
       <SubType>Designer</SubType>
     </None>
