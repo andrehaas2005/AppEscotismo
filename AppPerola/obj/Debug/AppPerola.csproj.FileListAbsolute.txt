@@ -34,3 +34,36 @@ C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\obj\Debug\AppPerola.csprojResolve
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\obj\Debug\AppPerola.dll
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\obj\Debug\AppPerola.pdb
 C:\ProjetoNet\AppEscotismo\AppPerola\AppPerola\bin\System.Data.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\AppPerola.dll.config
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\AppPerola.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\AppPerola.pdb
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\Antlr3.Runtime.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\EntityFramework.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\EntityFramework.SqlServer.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\Microsoft.Web.Infrastructure.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\MySql.Data.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\MySql.Data.Entity.EF6.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\Newtonsoft.Json.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Data.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Helpers.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Mvc.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Optimization.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Razor.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.WebPages.Deployment.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.WebPages.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.WebPages.Razor.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\WebGrease.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\EntityFramework.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\EntityFramework.SqlServer.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Helpers.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Mvc.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Optimization.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.Razor.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.WebPages.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.WebPages.Deployment.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\System.Web.WebPages.Razor.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\Antlr3.Runtime.pdb
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\bin\Newtonsoft.Json.xml
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\obj\Debug\AppPerola.csprojResolveAssemblyReference.cache
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\obj\Debug\AppPerola.dll
+D:\Andre Haas\Documentos\Projetos\AppPerola\AppPerola\obj\Debug\AppPerola.pdb

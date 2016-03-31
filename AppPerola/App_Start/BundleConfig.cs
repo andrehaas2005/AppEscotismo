@@ -12,7 +12,8 @@ namespace AppPerola
                         "~/Scripts/jquery-{version}.js",
                         "~/Script/functions.js",
                         "~/Script/jquery.cookie.js",
-                        "~/Script/jquery.js"));
+                        "~/Script/jquery.js",
+                        "~/Script/raptor.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));

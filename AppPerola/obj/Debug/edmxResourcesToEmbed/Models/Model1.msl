@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="perolaModelStoreContainer" CdmEntityContainer="perolaEntities">
+    <EntitySetMapping Name="tb_chamadas">
+      <EntityTypeMapping TypeName="perolaModel.tb_chamadas">
+        <MappingFragment StoreEntitySet="tb_chamadas">
+          <ScalarProperty Name="chamadasId" ColumnName="chamadasId" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="Resumo" ColumnName="Resumo" />
+          <ScalarProperty Name="Texto" ColumnName="Texto" />
+          <ScalarProperty Name="UrlImagemPrincipal" ColumnName="UrlImagemPrincipal" />
+          <ScalarProperty Name="UrlImagemMini" ColumnName="UrlImagemMini" />
+          <ScalarProperty Name="DataCriacao" ColumnName="DataCriacao" />
+          <ScalarProperty Name="DataAtualizacao" ColumnName="DataAtualizacao" />
+          <ScalarProperty Name="Ativo" ColumnName="Ativo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

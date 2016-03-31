@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="perolaModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.6" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tb_chamadas">
+    <Key>
+      <PropertyRef Name="chamadasId" />
+    </Key>
+    <Property Name="chamadasId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="titulo" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Resumo" Type="varchar" MaxLength="200" />
+    <Property Name="Texto" Type="text" Nullable="false" />
+    <Property Name="UrlImagemPrincipal" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="UrlImagemMini" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="DataCriacao" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="DataAtualizacao" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="Ativo" Type="bool" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="perolaModelStoreContainer">
+    <EntitySet Name="tb_chamadas" EntityType="Self.tb_chamadas" Schema="perola" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
