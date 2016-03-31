@@ -12,8 +12,7 @@ namespace AppPerola
                         "~/Scripts/jquery-{version}.js",
                         "~/Script/functions.js",
                         "~/Script/jquery.cookie.js",
-                        "~/Script/jquery.js",
-                        "~/Script/raptor.js"));
+                        "~/Script/jquery.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
@@ -29,8 +28,7 @@ namespace AppPerola
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css",
-                      "~/Content/default.css"));
+                      "~/Content/site.css"));
         }
     }
 }

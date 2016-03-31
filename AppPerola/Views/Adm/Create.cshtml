@@ -6,17 +6,20 @@
 }
 
 <script language="JavaScript" type="text/javascript" src="~/Scripts/raptor.js"></script>
+
 <script type="text/javascript">
-    $('#raptor-docked-element').raptor({
-        autoEnable: true,            // Enable the editor automaticly
-        plugins: {                   // Plugin options
-            dock: {                  // Dock specific plugin options
-                docked: true,        // Start the editor already docked
-                dockToElement: true, // Dock the editor inplace of the element
-                persist: false       // Do not save the docked state
-            }
-        }
-    });
+    //$('#raptor-docked-element').raptor({
+    //    autoEnable: true,            // Enable the editor automaticly
+    //    plugins: {                   // Plugin options
+    //        dock: {                  // Dock specific plugin options
+    //            docked: true,        // Start the editor already docked
+    //            dockToElement: true, // Dock the editor inplace of the element
+    //            persist: false       // Do not save the docked state
+    //        }
+    //    }
+    //});
+
+  
 
 </script>
 <h2>Create</h2>
@@ -28,7 +31,7 @@
     <div class="form-horizontal">
         <h4>tb_chamadas</h4>
         <hr />
-        @Html.ValidationSummary(true)
+        @Html.ValidationSummary(false)
 
         <div class="form-group">
             @Html.LabelFor(model => model.titulo, new { @class = "control-label col-md-2" })
@@ -49,7 +52,8 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Texto, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.TextAreaFor(model => model.Texto)
+                @Html.ValidationMessageFor(m => m.Texto)
+                @Html.Raw(ViewBag.Editor1)
                 @Html.ValidationMessageFor(model => model.Texto)
                 <div id="raptor-docked-element"></div>
             </div>
@@ -80,8 +84,10 @@
         </div>
 
         <div class="form-group">
+
             @Html.LabelFor(model => model.DataAtualizacao, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
+
                 @Html.EditorFor(model => model.DataAtualizacao)
                 @Html.ValidationMessageFor(model => model.DataAtualizacao)
             </div>
